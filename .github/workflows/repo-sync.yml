@@ -1,5 +1,5 @@
 # File: .github/workflows/repo-sync.yml
-name: 自动同步
+name: TB X
 on:
   schedule:
     - cron: '0 4,10,16,22  * * *'
